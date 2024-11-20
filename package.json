@@ -83,7 +83,7 @@
     "express-session": "1.18.1",
     "force-graph": "1.46.0",
     "fs-extra": "11.2.0",
-    "helmet": "7.1.0",
+    "helmet": "7.2.0",
     "html": "1.0.0",
     "html2plaintext": "2.1.4",
     "http-proxy-agent": "7.0.2",
