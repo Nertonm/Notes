@@ -100,7 +100,7 @@
     "jquery": "3.7.1",
     "jquery-hotkeys": "0.2.2",
     "jquery.fancytree": "2.38.3",
-    "jsdom": "25.0.0",
+    "jsdom": "25.0.1",
     "jsplumb": "2.15.6",
     "katex": "0.16.11",
     "knockout": "3.5.1",
