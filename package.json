@@ -148,7 +148,7 @@
     "@electron-forge/plugin-auto-unpack-natives": "7.5.0",
     "@playwright/test": "1.48.2",
     "@types/archiver": "6.0.2",
-    "@types/better-sqlite3": "7.6.11",
+    "@types/better-sqlite3": "7.6.12",
     "@types/cls-hooked": "4.3.8",
     "@types/compression": "1.7.5",
     "@types/cookie-parser": "1.4.7",
